@@ -2,7 +2,9 @@
 
 This repository is built for self-host extensions for [Standard Notes](https://github.com/standardnotes). 
 
-Currently, you can visit these pages for third-party plugin installation.
+https://snexts.github.io
+
+Currently, you can visit these pages for third-party extension installations.
 
 - [Bold Editor](https://github.com/standardnotes/bold-editor) - https://snexts.github.io/bold-editor/ext.json
 - [Advanced Markdown Editor (Markdown Pro)](https://github.com/standardnotes/markdown-pro) - https://snexts.github.io/markdown-pro/ext.json
